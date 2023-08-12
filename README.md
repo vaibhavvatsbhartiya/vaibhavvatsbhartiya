@@ -1,4 +1,4 @@
-(![image](https://github.com/vaibhavvatsbhartiya/vaibhavvatsbhartiya/assets/76244950/9c0995d3-78fd-42a3-9a8e-624363ac1a03)
+
 <h1 align="center">Hi 👋, I'm Vaibhav Vats</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="![image](https://github.com/vaibhavvatsbhartiya/vaibhavvatsbhartiya/assets/76244950/47724426-1ca7-417e-ba3a-fc7b941c3120)
