@@ -1,4 +1,4 @@
-[![MasterHead] (https://www.bing.com/images/search?view=detailV2&ccid=mviaIpKc&id=BD9BC9690CD632A03D523439128DE31108CC18EE&thid=OIP.mviaIpKcAOkybOmNTfs9LgHaC4&mediaurl=https%3a%2f%2fwww.cryptus.in%2fimage%2fweb-development_banner.jpg&exph=2038&expw=5242&q=wweb+developer+banner&simid=608019167505445338&FORM=IRPRST&ck=6FE3217FFFF557113D47A8567546211C&selectedIndex=10)
+[![MasterHead] (![image](https://github.com/vaibhavvatsbhartiya/vaibhavvatsbhartiya/assets/76244950/9c0995d3-78fd-42a3-9a8e-624363ac1a03)
 <h1 align="center">Hi 👋, I'm Vaibhav Vats</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.bing.com/images/search?view=detailV2&ccid=t5Odc9Ms&id=26EFA99F81FC9E07C7035F3B8E17CD2A898B767F&thid=OIP.t5Odc9Mss85eSKgN013FmQAAAA&mediaurl=https%3a%2f%2fmedia.tenor.com%2fimages%2fb7939d73d32cb3ce5e48a80dd35dc599%2ftenor.gif&exph=138&expw=220&q=cartoon+doing+coding+gif&simid=608054519398159909&FORM=IRPRST&ck=DBE5EF42C0A6DFA2CC996268C00E1D3A&selectedIndex=28" alt="Animated file" align ="right" width="400">
