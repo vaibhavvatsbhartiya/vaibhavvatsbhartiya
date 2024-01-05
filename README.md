@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vaibhav Vats</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="![image](https://github.com/vaibhavvatsbhartiya/vaibhavvatsbhartiya/assets/76244950/47724426-1ca7-417e-ba3a-fc7b941c3120)
-" alt="Animated file" align ="right" width="400">
 
 <!--  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavvatsbhartiya&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavvatsbhartiya" /> </p>
