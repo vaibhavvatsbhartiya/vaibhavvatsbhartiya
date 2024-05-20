@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Vaibhav Vats</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Full Stack Web Developer Intern at CodTech It Solutions from India</h3>
 
 <!--  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavvatsbhartiya&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavvatsbhartiya" /> </p>
 -->
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently exploring **MERN Stack**
 
 - 📫 How to reach me **connect with me on Linkedin**
 <!-- 
