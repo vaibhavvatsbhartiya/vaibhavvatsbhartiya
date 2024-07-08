@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Vats</h1>
-<h3 align="center">A web developer intern at placement dost and upto skills and full stack web developer intern at Innobyte Services and CodTech It Solutions from India</h3>
+<h3 align="center">A web developer intern at upto skills and leading my team to create a coding platform using MERN.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavvatsbhartiya&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavvatsbhartiya" /> </p>
 
