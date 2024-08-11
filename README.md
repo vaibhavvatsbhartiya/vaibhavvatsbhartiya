@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **connect me via Linkedin**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cbJ06WudswQiv99cNWlh0Vy77vM7vkEj/view?usp=sharing](https://drive.google.com/file/d/1cbJ06WudswQiv99cNWlh0Vy77vM7vkEj/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://docs.google.com/document/d/1QKqS8x-R5aMUcCJc04mKGf48y175QALN8yjlvcERPDQ/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
