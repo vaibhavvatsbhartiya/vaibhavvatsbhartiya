@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Vats</h1>
-<h3 align="center">A web developer intern at upto skills and leading my team to create a coding platform using MERN.</h3>
+<h3 align="center">Just start a course provide by Infosys SpringBoard on Java Technology and learn python using python documentation and tutorials.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavvatsbhartiya&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavvatsbhartiya" /> </p>
 
-- 🌱 I’m currently learning **MERN and Core Java**
+- 🌱 I’m currently learning **MERN and (Core Java and python)**
 
 - 📫 How to reach me **connect me via Linkedin**
 
