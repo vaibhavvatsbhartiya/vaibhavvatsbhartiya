@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Vats</h1>
-<h3 align="center">Just start a course provide by Infosys SpringBoard on Java Technology and learn python using python documentation and tutorials.</h3>
+<h3 align="center">Just start a course provide by InternShala on Python programming language.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavvatsbhartiya&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavvatsbhartiya" /> </p>
 
